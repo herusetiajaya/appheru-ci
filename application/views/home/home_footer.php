@@ -1,10 +1,10 @@
-<div class="container-fluid mt-1 bg-secondary">
+<div class="container-fluid mt-1 bg-light">
     <div class="container">
-        <footer class="sticky-footer bg-dark rounded-bottom">
+        <footer class="sticky-footer rounded-bottom">
 
             <div class="container my-auto">
                 <div class="copyright text-center my-auto">
-                    <span class="text-white">Copyright &copy; Heru Setiawan <?= date('Y'); ?></span>
+                    <span class="text-drak">Copyright &copy; Heru Setiawan <?= date('Y'); ?></span>
                 </div>
             </div>
 
